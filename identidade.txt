@@ -2,3 +2,5 @@
 
 CPF: 000.000.000-01
 telefone: (47)99900-9900
+idade: 20 anos
+altura: 1,80 Metros
