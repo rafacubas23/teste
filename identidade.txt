@@ -6,3 +6,4 @@ idade: 20 anos
 altura: 1,80 Metros
 cidade: joinville
 pais: brasil
+cor de cabelo: preto
